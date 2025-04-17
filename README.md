@@ -1,7 +1,6 @@
 # ZP_DM
-JupyterNotebook_10G.ipynb为10G的Jupyter Notebook文件 <br>
-JupyterNotebook_30G.ipynb为30G的Jupyter Notebook文件 <br>
-两个文件中对每一步的实现都做了详细的说明。
+Homework_01.ipynb为10G或者30G的Jupyter Notebook文件 <br>
+只需要修改1.4小节中的路径即可处理10G数据或者30G数据
 
 ### 注意事项
 （1）只需修改两个Jupyter Notebook文件中“1.4 查看数据集并对数据集进行了解”中的的数据集路径后即可运行。 <br>
