@@ -1,5 +1,8 @@
 # ZP_DM
-Homework_01.ipynb为10G或者30G的Jupyter Notebook文件 <br>
+Homework_01.ipynb为第一次互评作业的10G或者30G的Jupyter Notebook文件 <br>
+只需要修改1.4小节中的路径即可处理10G数据或者30G数据<br>
+
+Homework_02.ipynb为第二次互评作业的10G或者30G的Jupyter Notebook文件 <br>
 只需要修改1.4小节中的路径即可处理10G数据或者30G数据
 
 ### 注意事项
